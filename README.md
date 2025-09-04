@@ -20,7 +20,7 @@
 - [**Courses-System**](https://github.com/MalakNaim/Courses-System) – A complete course management system built with ASP.NET Core, EF Core, and SQL Server.  
 - [**Magazine-Palpay-Code**](https://github.com/MalakNaim/Magazine-Palpay-Code) – A CSS/HTML project showcasing magazine-style layouts.  
 - [**TicTacToeGame**](https://github.com/MalakNaim/TicTacToeGame) – A simple Dart/Flutter game.  
-- [**Graduation Project - Archive System**](https://github.com/MalakNaim/Graduation-Archive) – University graduation project: archiving and project management system.  
+- [**Graduation Project - Archive System**](https://github.com/MalakNaim/Bulky_MVC) – University graduation project: archiving and project management system.  
 - [**Tatweer System**](https://github.com/MalakNaim/Tatweer) – ASP.NET Core project for organizational management.  
 
 ---
