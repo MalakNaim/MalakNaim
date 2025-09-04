@@ -1,16 +1,26 @@
-## Hi there 👋
+# مرحبًا 👋 أنا Malak Naim
 
-<!--
-**MalakNaim/MalakNaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 مطوّرة برمجيات متخصصة في **ASP.NET Core | C# | SQL Server | React**  
+🎯 شغوفة ببناء تطبيقات ويب نظيفة وقابلة للتوسع مع واجهات حديثة  
+🌱 أتعلم باستمرار وأشارك معرفتي مع الآخرين  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ المهارات
+- **Backend:** ASP.NET Core, EF Core, LINQ, REST APIs  
+- **Frontend:** React, TypeScript, Zustand  
+- **Database:** SQL Server  
+- **DevOps:** Docker, GitHub Actions  
+
+---
+
+## 🚀 مشاريع مميزة
+- [**Courses-System**](#): نظام إدارة كورسات متكامل  
+- [**Magazine-Palpay-Code**](#): تجربة CSS لمجلة  
+- [**TicTacToeGame**](#): لعبة بسيطة باستخدام Dart  
+
+---
+
+## 📫 تواصل معي
+- [LinkedIn](https://www.linkedin.com/in/malaknaim/)  
+- [Email](malak.r.naim@gmail.com)
